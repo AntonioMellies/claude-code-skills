@@ -19,6 +19,7 @@ Repositório central de skills customizadas para o [Claude Code](https://claude.
 | Production-Ready Microservices Expert | `skills/production-ready-microservices-expert/` | Avaliar prontidão para produção, projetar observabilidade, resiliência e deploy | *Microsserviços Prontos para a Produção* — Susan J. Fowler |
 | Material Design System Architect | `skills/designer-system-material-3/` | Projetar, auditar e gerar interfaces M3, tokens, componentes e Design Systems | [Material Design 3](https://m3.material.io) — Google |
 | Material Enterprise SaaS Architect | `skills/designer-system-material-3-enterprise-ux/` | Projetar sistemas SaaS B2B, CRM, ERP, Backoffice com M3, produtividade e alta densidade | [Material Design 3](https://m3.material.io) — Google |
+| Product Discovery Assistant | `skills/product-discovery-assistant/` | Conduzir discovery do zero ou identificar oportunidades e melhorias em projeto existente | [Product Manager Skills](https://github.com/deanpeters/Product-Manager-Skills) — Dean Peters |
 
 ---
 
@@ -188,6 +189,12 @@ skills/
       enterprise-layout-patterns.md
       enterprise-crud-patterns.md
       enterprise-design-review.md
+  product-discovery-assistant/
+    SKILL.md
+    examples/
+      csd-opportunity-tree-template.md
+      interview-guide-template.md
+      rice-prioritization-template.md
   _template/
     SKILL.md
 references/
